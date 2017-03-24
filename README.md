@@ -1,8 +1,8 @@
 # Ramic Kodi Addons Repository
-
 Strona repozytorium została (tymczasowo) zablokowana gdyż sprzedawcy tzw buildow maja problem z darmowymi wtyczkami.
 Odblokowanie oryginalnego repozytorium (https://github.com/ramicspa/kodi) zajmnie jeszcze pare dni więc w między czasie informacje o wtyczka tutaj będą dostępne.
-Aktualna wersja repozytorium 1.3.0[repository.ramic.zip](https://github.com/ramicspa/kodi2/raw/master/repository.ramic.zip)
+Aktualna wersja repozytorium 1.3.0
+[repository.ramic.zip](https://github.com/ramicspa/kodi2/raw/master/repository.ramic.zip)
 ## Zawartość repozytoium
 |Wtyczka|Nazwa|Wersja|Aktualizacja|
 |---|---|---|---|
