@@ -6,8 +6,8 @@ Aktualna wersja repozytorium 1.3.0
 ## Zawartość repozytoium
 |Wtyczka|Nazwa|Wersja|Aktualizacja|
 |---|---|---|---|
+|<img src="https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.cdaonline/icon.png" width="48">|cdax.tv|2.0.7|[2017-3-27](https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.cdaonline/changelog-2.0.7.txt)
 |<img src="https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.LivePolishTV/icon.png" width="48">|LivePolishTV|2.2.0|[2017-3-25](https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.LivePolishTV/changelog-2.2.0.txt)
-|<img src="https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.cdaonline/icon.png" width="48">|cdax.tv|2.0.6|[2017-3-16](https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.cdaonline/changelog-2.0.6.txt)
 |<img src="https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.filisertv/icon.png" width="48">|Filiser|1.1|[2017-3-15](https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.filisertv/changelog-1.1.txt)
 |<img src="https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.kino24tv/icon.png" width="48">|cda-kino|1.3|[2017-3-10](https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.kino24tv/changelog-1.3.txt)
 |<img src="https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.CinemaHD/icon.png" width="48">|CinemaHD|2.4|[2017-3-5](https://raw.githubusercontent.com/ramicspa/kodi2/master/zips/plugin.video.CinemaHD/changelog-2.4.txt)
